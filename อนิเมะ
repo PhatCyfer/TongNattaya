@@ -23,5 +23,29 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS--vTSN-hiNUTuzHTma
 url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/%E0%B8%99%E0%B8%B2%E0%B8%A3%E0%B8%B9%E0%B9%82%E0%B8%95%E0%B8%B0%20Shippuden",
 "import": false
 },
+{
+name:"โบรูโตะ",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTotakje0FswvFmtr-EXxD7Hos_yKoq862Yg&usqp=CAU",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/5boruto",
+"import": false
+},
+{
+name:"วันพันช์แมน ไอหนุ่มหมัดเดียว",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOyZCEizFpfF8RDNW0dVfMolHCYcavL7vVSg&usqp=CAU",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/6one-punch-man",
+"import": false
+},
+{
+name:"โจโจ้ ล่าข้ามศตวรรษ",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl7ebg8NCwCi1TV-7ILQ7YFMNYU0A7E1fKOA&usqp=CAU",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/7jojo",
+"import": false
+},
+{
+name:"เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROkEXt3Antb0RE4QUYqb4nxn_pgcur_dOHGg&usqp=CAU",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/8Slime-Datta-ken",
+"import": false
+},
 ]
 }
