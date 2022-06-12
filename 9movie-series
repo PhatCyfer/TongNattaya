@@ -1,0 +1,57 @@
+{
+name:"หนัง&ซีรี่ย์",
+author:"กลุ่ม : มาเป็นโจรสลัดกันเถอะ",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL1bs5Pdsklf2D4A2GJxx8Rvh99QpmOow6xg&usqp=CAU",
+
+groups:[
+
+{
+name:"จักรวาล marvel เรียงตาม timeline",
+image:"https://cdn.majorcineplex.com/uploads/content/18424/cover_18424.jpg",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/10Marvel-Timeline",
+"import": false
+},
+{
+name:"Harry Potter แฮร์รี่ พอตเตอร์",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB9_Y8RCi5t_Rwwr5DZ-DuSdzKGMcjK5zjGQ&usqp=CAU",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/11HarryPotter",
+"import": false
+},
+{
+name:"Fantastic Beasts สัตว์มหัศจรรย์",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2PXd-Rua7onF6PVYizCgvcvxf6KlHZ9hi2Q&usqp=CAU",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/12Fantastic-Beasts",
+"import": false
+},
+{
+name:"ซีรี่ย์ยุโรป",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP_16E-B3LhiPcDCCHaIYn49juaikJVvbfBA&usqp=CAU",
+url:"kuy",
+"import": false
+},
+{
+name:"ซีรี่ย์เกาหลี",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP_16E-B3LhiPcDCCHaIYn49juaikJVvbfBA&usqp=CAU",
+url:"kuy",
+"import": false
+},
+{
+name:"ซีรี่ย์จีน",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP_16E-B3LhiPcDCCHaIYn49juaikJVvbfBA&usqp=CAU",
+url:"kuy",
+"import": false
+},
+{
+name:"หนังอินเดีย",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP_16E-B3LhiPcDCCHaIYn49juaikJVvbfBA&usqp=CAU",
+url:"Kuy",
+"import": false
+},
+{
+name:"รออัพเดต",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP_16E-B3LhiPcDCCHaIYn49juaikJVvbfBA&usqp=CAU",
+url:"Kuy",
+"import": false
+},
+]
+}
