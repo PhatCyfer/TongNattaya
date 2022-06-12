@@ -14,9 +14,9 @@
 "import": false
 },
 {
-"name": "หนัง",
+"name": "หนัง&ซีรี่ย์",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK6KBVGrU6YY5bwzEYaPg9vd4Poygc-bCcMQ&usqp=CAU",
-"url": "https://raw.githubusercontent.com/PhatCyfer/PhatCyfer/main/%E0%B8%AA%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%94%E0%B8%B5",
+"url": "https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/9movie-series",
 "import": false
 },
 ]
