@@ -47,5 +47,17 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROkEXt3Antb0RE4QUYq
 url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/8Slime-Datta-ken",
 "import": false
 },
+{
+name:"Fairy Tail แฟรี่เทล",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw4liHIWrEyv54K0NumyBGJZJYgOL_Tludlw&usqp=CAU",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/13FairyTail",
+"import": false
+},
+{
+name:"Douluo Dalu Soul Land จอมยุทธ์ภูติถังซาน",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx89lPFXE21yBYH4otJQpJivyl3xtP0zW9MA&usqp=CAU",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/14Douluo-Dalu-Soul-Land",
+"import": false
+},
 ]
 }
