@@ -1,0 +1,291 @@
+{
+"name": "Doraemon The movie",
+"author": "PhaTong",
+"url": "https://i.pinimg.com/originals/03/e5/6a/03e56a440cb8616dc545a2e100c851a2.jpg",
+
+
+"stations": [
+
+{
+"name": "1 DORAEMON THE MOVIE (1980) ไดโนเสาร์ของโนบิตะ",
+"info": "เสียง : พากย์ไทย",
+"image":"https://thematter.co/wp-content/uploads/2019/10/Doraemon-1980-Film-Poster.jpg",
+"url":"https://streaming.tonytonychopper.com/playback/x/h9IkhvzDm4/",
+"playInNatPlayer": "true"
+},
+{
+"name": "2 DORAEMON THE MOVIE (1981) โนบิตะนักบุกเบิกอวกาศ",
+"info": "เสียง : พากย์ไทย",
+"image":"https://doraemonmovie.files.wordpress.com/2016/09/1434063630-doraemon-1981-e0b982e0b899e0b89ae0b8b4e0b895e0b8b0e0b899e0b8b1e0b881e0b89ae0b8b8e0b881e0b980e0b89ae0b8b4e0b881e0b8ade0b8a7e0b881.jpg",
+"url":"https://streaming.tonytonychopper.com/playback/x/0u9DlZXmwx/",
+"playInNatPlayer": "true"
+},
+{
+"name": "3 DORAEMON THE MOVIE (1982) บุกแดนมหัศจรรย์",
+"info": "เสียง : พากย์ไทย",
+"image":"https://m.media-amazon.com/images/M/MV5BZWUwYTIxMDUtODk2Yy00YmU3LWE0M2EtYjNmMDJkM2QyOGNkXkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_.jpg",
+"url":"https://www.animetobi.com/embed/34529/",
+"playInNatPlayer": "true"
+},
+{
+"name": "4 DORAEMON THE MOVIE (1983) ตะลุยปราสาทใต้สมุทร",
+"info": "เสียง : พากย์ไทย",
+"image":"https://www.animetobi.com/upload/772fa0a5a67826dcbafc53fbef5af4da.jpg?v=1",
+"url":"https://www.animetobi.com/embed/34531/",
+"playInNatPlayer": "true"
+},
+{
+"name": "5 DORAEMON THE MOVIE (1984)โนบิตะท่องแดนเวทมนต์",
+"info": "เสียง : พากย์ไทย",
+"image":"https://www.c2movie.com/wp-content/uploads/2018/12/Doraemon-1984.jpg",
+"url":"https://streaming.tonytonychopper.com/playback/x/aqJr1SPSGB/",
+"playInNatPlayer": "true"
+},
+{
+"name": "6 DORAEMON THE MOVIE (1985) สงครามอวกาศ",
+"info": "เสียง : พากย์ไทย",
+"image":"https://www.animetobi.com/upload/adb8ce206923e88886fac0e44ecab432.jpg?v=1",
+"url":"https://streaming.tonytonychopper.com/playback/x/2RH1IQYL0A/",
+"playInNatPlayer": "true"
+},
+{
+"name": "7 DORAEMON THE MOVIE (1986) สงครามหุ่นเหล็ก",
+"info": "เสียง : พากย์ไทย",
+"image":"https://www.animetobi.com/upload/b820e871c9dabf886d0939efa978a10a.jpg?v=1",
+"url":"https://www.animetobi.com/embed/34534/",
+"playInNatPlayer": "true"
+},
+{
+"name": "8 DORAEMON THE MOVIE (1987) บุกแดนใต้พิภพ",
+"info": "เสียง : พากย์ไทย",
+"image":"https://www.animetobi.com/upload/c8093760ae197e7aae65f9481ea935ec.jpg?v=1",
+"url":"https://streaming.tonytonychopper.com/playback/x/ZzfVcJLwXK/",
+"playInNatPlayer": "true"
+},
+{
+"name": "9 DORAEMON THE MOVIE (1988) ท่องแดนเทพนิยายไซอิ๋ว",
+"info": "เสียง : พากย์ไทย",
+"image":"https://www.animetobi.com/upload/e9c6fad1e3761e98eba74001f8b8228d.jpg?v=1",
+"url":"https://streaming.tonytonychopper.com/playback/x/evZX61HFXM/",
+"playInNatPlayer": "true"
+},
+{
+"name": "10 DORAEMON THE MOVIE (1989) ท่องแดนญี่ปุ่นโบราณ",
+"info": "เสียง : พากย์ไทย",
+"image":"https://www.animetobi.com/upload/5b008c3b3874ad95cdebbd9ff6828e95.jpg?v=1",
+"url":"https://www.animetobi.com/embed/34619/",
+"playInNatPlayer": "true"
+},
+{
+"name": "11 DORAEMON THE MOVIE (1990) โนบิตะตะลุยอาณาจักรดาวสัตว์",
+"info": "เสียง : พากย์ไทย",
+"image":"https://4u2movie.com/wp-content/uploads/2019/12/MV5BYTE2ZWQ0ZWEtMTMwZi00NDgwLTg5N2UtYjdmYWYwZGU3ZGQ2XkEyXkFqcGdeQXVyODk1NzM2MjE@._V1_SY1000_CR007031000_AL_.jpg",
+"url":"https://streaming.tonytonychopper.com/playback/x/9g5Dy7QllP/",
+"playInNatPlayer": "true"
+},
+{
+"name": "12 DORAEMON THE MOVIE (1991) โนบิตะท่องอาหรับราตรี",
+"info": "เสียง : พากย์ไทย",
+"image":"https://movie-hd777.com/wp-content/uploads/2021/03/gJL5GgPWOvtcGo8ozEXCkFv3ub0.jpg",
+"url":"https://streaming.tonytonychopper.com/playback/x/a36U9EcpNC/",
+"playInNatPlayer": "true"
+},
+{
+"name": "13 DORAEMON THE MOVIE (1992) บุกอาณาจักรเมฆ",
+"info": "เสียง : พากย์ไทย",
+"image":"https://www.animetobi.com/upload/91bcac572d833888eece454b9144951b.jpg?v=1",
+"url":"https://streaming.tonytonychopper.com/playback/x/vx0DjdFhRr/",
+"playInNatPlayer": "true"
+},
+{
+"name": "14 DORAEMON THE MOVIE (1993) ฝ่าแดนเขาวงกต",
+"info": "เสียง : พากย์ไทย",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ3lHuPpySATNlzNHSK9awj-IepA4936xJcQ&usqp=CAU",
+"url":"https://streaming.tonytonychopper.com/playback/x/XEWDdWUHk5/",
+"playInNatPlayer": "true"
+},
+{
+"name": "15 DORAEMON THE MOVIE (1994) สามอัศวินในจินตนาการ",
+"info": "เสียง : พากย์ไทย",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYqabsDtWvQjp95YUju5KXvCNQhYXLhs_wCw&usqp=CAU",
+"url":"https://streaming.tonytonychopper.com/playback/x/yBVsd8i5fC/",
+"playInNatPlayer": "true"
+},
+{
+"name": "16 DORAEMON THE MOVIE (1995) ตำนานการสร้างโลก",
+"info": "เสียง : พากย์ไทย",
+"image":"https://movie44.com/wp-content/uploads/2021/12/Doraemon-The-Movie-16-1995.jpg",
+"url":"https://streaming.tonytonychopper.com/playback/x/PsLWHVAtEU/",
+"playInNatPlayer": "true"
+},
+{
+"name": "17 DORAEMON THE MOVIE (1996) ผจญภัยสายกาแล็คซี่",
+"info": "เสียง : พากย์ไทย",
+"image":"https://doonung108.com/wp-content/uploads/2021/07/922f3047a9ed395f1fcd7c8e980b697a.jpg",
+"url":"https://streaming.tonytonychopper.com/playback/x/1nYZcqyt9i/",
+"playInNatPlayer": "true"
+},
+{
+"name": "18 DORAEMON THE MOVIE (1997) ผจญภัยเมืองในฝัน",
+"info": "เสียง : พากย์ไทย",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiRx8PibsizC98k9Q5bMkPjGqvycla4EdZTQ&usqp=CAU",
+"url":"https://bit.ly/3HwPXNc",
+"playInNatPlayer": "true"
+},
+{
+"name": "19 DORAEMON THE MOVIE (1998) ผจญภัยเกาะมหาสมบัติ",
+"info": "เสียง : พากย์ไทย",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeZ-8eI-L7mS2Fza2Ww-2k7ttsvz0z2xdAjA&usqp=CAU",
+"url":"https://streaming.tonytonychopper.com/playback/x/9Smm7nL7Dd/",
+"playInNatPlayer": "true"
+},
+{
+"name": "20 DORAEMON THE MOVIE (1999) ตะลุยอวกาศ",
+"info": "เสียง : พากย์ไทย",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQWIU7Z6FhFKzTOoQjTI2DbAkuAkA0p2xnNA&usqp=CAU",
+"url":"https://streaming.tonytonychopper.com/playback/x/X8yFkwFvPX/",
+"playInNatPlayer": "true"
+},
+{
+"name": "21 DORAEMON THE MOVIE (2000) ตำนานสุริยกษัตริย์",
+"info": "เสียง : พากย์ไทย",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvqViCeY5NBpomSM2Uz0yF6eUGT2spCJWWhQ&usqp=CAU",
+"url":"https://streaming.tonytonychopper.com/playback/x/RfOT1o5z0i/",
+"playInNatPlayer": "true"
+},
+{
+"name": "22 DORAEMON THE MOVIE (2001) โนบิตะและอัศวินแดนวิหค",
+"info": "เสียง : พากย์ไทย",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSlVosuBEVD7ciXlgP2dB00pQMKzPFTOXp2Q&usqp=CAU",
+"url":"https://streaming.tonytonychopper.com/playback/x/aMgNahgqP0/",
+"playInNatPlayer": "true"
+},
+{
+"name": "23 DORAEMON THE MOVIE (2002) โนบิตะตะลุยอาณาจักรหุ่นยนต์",
+"info": "เสียง : พากย์ไทย",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzi38OUhE3fnqB58ryLj3rrNiRzl8VIotUSw&usqp=CAU",
+"url":"https://streaming.tonytonychopper.com/playback/x/nIKiRXDCx9/",
+"playInNatPlayer": "true"
+},
+{
+"name": "24 DORAEMON THE MOVIE (2003) โนบิตะผจญภัยดินแดนแห่งสายลม",
+"info": "เสียง : พากย์ไทย",
+"image":"https://image.tmdb.org/t/p/w600_and_h900_bestv2/frCCqkLB5xwLNnQgi6wmlexVrVQ.jpg",
+"url":"https://streaming.tonytonychopper.com/playback/x/NO3qGWsAkH/",
+"playInNatPlayer": "true"
+},
+{
+"name": "25 DORAEMON THE MOVIE (2004) โนบิตะท่องอาณาจักรโฮ่งเหมียว",
+"info": "เสียง : พากย์ไทย",
+"image":"https://2.bp.blogspot.com/-pvSKDzsJESw/Uxic8i7vIVI/AAAAAAAADFs/bMbws4DMNB4/s1600/Nobita+in+the+Wan-Nyan+Spacetime+Odyssey.jpg",
+"url":"https://streaming.tonytonychopper.com/playback/x/NEQzkkNu2Y/",
+"playInNatPlayer": "true"
+},
+{
+"name": "26 DORAEMON THE MOVIE (2006) ไดโนเสาร์ของโนบิตะ",
+"info": "เสียง : พากย์ไทย",
+"image":"https://upload.wikimedia.org/wikipedia/th/e/ec/Doraemon2006.jpg",
+"url":"https://bit.ly/3tIeCZG",
+"playInNatPlayer": "true"
+},
+{
+"name": "27 DORAEMON THE MOVIE (2007) โนบิตะตะลุยแดนปีศาจ 7 ผู้วิเศษ",
+"info": "เสียง : พากย์ไทย",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSYZQQKiR3zpUhvyPd3yoYna9FVNxH0Qtq_A&usqp=CAU",
+"url":"https://streaming.tonytonychopper.com/playback/x/KKduf6FaQl/",
+"playInNatPlayer": "true"
+},
+{
+"name": "28 DORAEMON THE MOVIE (2008) โนบิตะกับตำนานยักษ์พฤกษา",
+"info": "เสียง : พากย์ไทย",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXAB2N7DMHe9pTTFmqoi5w4HFKsIi3MzMzhg&usqp=CAU",
+"url":"https://streaming.tonytonychopper.com/playback/x/xFNdu4vwLK/",
+"playInNatPlayer": "true"
+},
+{
+"name": "29 DORAEMON THE MOVIE (2009) โนบิตะนักบุกเบิกอวกาศ",
+"info": "เสียง : พากย์ไทย",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT2gmOQmzBkseGOLGEOKOiXwAhsYJMZHqsLg&usqp=CAU",
+"url":"https://streaming.tonytonychopper.com/playback/x/YtJHG699nG/",
+"playInNatPlayer": "true"
+},
+{
+"name": "30 DORAEMON THE MOVIE (2010) สงครามเงือกใต้สมุทร",
+"info": "เสียง : พากย์ไทย",
+"image":"https://th-test-11.slatic.net/p/afcf216c742a4ffc7bf10591a359f2fe.jpg",
+"url":"https://streaming.tonytonychopper.com/playback/x/fSBNC0Ppgn/",
+"playInNatPlayer": "true"
+},
+{
+"name": "31 DORAEMON THE MOVIE (2011) โนบิตะผจญกองทัพมนุษย์เหล็ก",
+"info": "เสียง : พากย์ไทย",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ94Koi6zTjiDpg_K9vi9F27JEtO8aXSMoh_Q&usqp=CAU",
+"url":"https://streaming.tonytonychopper.com/playback/x/NPde9MNDtH/",
+"playInNatPlayer": "true"
+},
+{
+"name": "32 DORAEMON THE MOVIE (2012) โนบิตะผจญภัยในเกาะมหัศจรรย์",
+"info": "เสียง : พากย์ไทย",
+"image":"https://images-se-ed.com/ws/Storage/Originals/885665/202/8856652020802L.jpg?h=c9790150f533983e9139f17eaafd3755",
+"url":"https://streaming.tonytonychopper.com/playback/x/eqIQPS4sWo/",
+"playInNatPlayer": "true"
+},
+{
+"name": "33 DORAEMON THE MOVIE (2013) โนบิตะล่าโจรปริศนาในพิพิธภัณฑ์ของวิเศษ",
+"info": "เสียง : พากย์ไทย",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlOT6M_-y6Y0wJTxqld6aoPn4Co-OmZOC3fQ&usqp=CAU",
+"url":"https://bit.ly/3QsZ0CO",
+"playInNatPlayer": "true","referer": "https://www.animetobi.com/"
+},
+{
+"name": "34 DORAEMON THE MOVIE (2014) STAND BY ME DORAEMON - SPECIAL",
+"info": "เสียง : พากย์ไทย",
+"image":"https://jediyuth.files.wordpress.com/2014/11/stand-by-me-doraemon-thai-poster.jpg",
+"url":"https://streaming.tonytonychopper.com/playback/x/lJ2R7PAd5k/",
+"playInNatPlayer": "true"
+},
+{
+"name": "35 DORAEMON THE MOVIE (2014) โนบิตะ บุกดินแดนมหัศจรรย์ เปโกะกับห้าสหายนักสำรวจ",
+"info": "เสียง : พากย์ไทย",
+"image":"https://upload.wikimedia.org/wikipedia/th/a/a1/Doraemon_the_movie_2014_poster.jpg",
+"url":"https://streaming.tonytonychopper.com/playback/x/MaJaPsKCj1/",
+"playInNatPlayer": "true"
+},
+{
+"name": "36 DORAEMON THE MOVIE (2015) โนบิตะผู้กล้าแห่งอวกาศ",
+"info": "เสียง : ซับไทย",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuvU1vWOkrYuu3ru_bVEPYGZwhk8JKUULzZg&usqp=CAU",
+"url":"https://bit.ly/3HwftSI",
+"playInNatPlayer": "true","referer": "https://www.animetobi.com/"
+},
+{
+"name": "37 DORAEMON THE MOVIE (2016) โนบิตะกำเนิดประเทศญี่ปุ่น",
+"info": "เสียง : พากย์ไทย",
+"image":"https://www.037hdmovie.com/wp-content/uploads/2018/04/yrcsI32ewwsziOVUCzX.jpg",
+"url":"https://streaming.tonytonychopper.com/playback/x/j3OFPKQ1Ou/",
+"playInNatPlayer": "true"
+},
+{
+"name": "38 DORAEMON THE MOVIE (2017) คาชิ-โคชิ การผจญภัยขั้วโลกใต้ของ",
+"info": "เสียง : พากย์ไทย",
+"image":"https://www.donung.me/wp-content/uploads/2018/04/Doraemon-Great-Adventure-in-the-Antarctic-Kachi-Kochi-2017.jpg",
+"url":"https://streaming.tonytonychopper.com/playback/x/WhNVMAqYlh/",
+"playInNatPlayer": "true"
+},
+{
+"name": "39 DORAEMON THE MOVIE (2018) เกาะมหาสมบัติของโนบิตะ",
+"info": "เสียง : พากย์ไทย",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkEPvKQHbYlclFthp_l4_KtreoawLFUyf3RA&usqp=CAU",
+"url":"https://streaming.tonytonychopper.com/playback/x/p6wBO3Am5A/",
+"playInNatPlayer": "true"
+},
+{
+"name": "40 DORAEMON THE MOVIE (2019) โนบิตะสำรวจดินแดนจันทรา",
+"info": "เสียง : พากย์ไทย",
+"image":"https://www.animetobi.com/upload/1ff8d3502a987f9e1006ace7150027e7.jpg?v=1",
+"url":"https://www.animetobi.com/embed/41624/",
+"playInNatPlayer": "true"
+},
+
+]
+}
