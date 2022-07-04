@@ -1,0 +1,30 @@
+{"name":"ซีรี่ส์ ยุโรป",
+"author":"กลุ่ม : มาเป็นโจรสลัดกันเถอะ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLHO6DlXbLG5bt3qD6qsAKZC1XJCx6dpLsg&usqp=CAU",
+"url":"Kuy",
+
+"groups":[
+
+{
+"name":"The Walking Dead ล่าสยองกองทัพผีดิบ",
+"info":"เสียง : พากย์ไทย",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMwHsX1_Onz9mgAJV4sZ1tOTop9MT5bTI9Pw&usqp=CAU",
+"url":"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/24The-Walking-Dead",
+"import": false
+},
+{
+"name":"Prison Break แผนลับแหกคุกนรก",
+"info":"เสียง : พากย์ไทย",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUyPGlL3g_sUhepfH8svGWTk_gkarZTEoCWw&usqp=CAU",
+"url":"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/30Prison-Break",
+"import": false
+},
+{
+"name":"Peaky Blinders พีกี้ ไบลน์เดอร์ส",
+"info":"เสียง : ซับไทย",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT01EpliE6A_tGqgfsYLD6AS5FpVYekRkm0JA&usqp=CAU",
+"url":"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/31Peaky-Blinders",
+"import": false
+},
+]
+}
