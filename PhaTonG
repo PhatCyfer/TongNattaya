@@ -19,5 +19,11 @@
 "url": "https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/02movie-series",
 "import": false
 },
+{
+"name": "TV Online",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGEfZF1LF8gQcFY1CYFG4pCUbQJczgL3L09A&usqp=CAU",
+"url": "https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/03TV",
+"import": false
+},
 ]
 }
