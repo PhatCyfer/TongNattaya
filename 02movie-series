@@ -8,31 +8,31 @@ groups:[
 {
 name:"จักรวาล marvel เรียงตาม timeline",
 image:"https://cdn.majorcineplex.com/uploads/content/18424/cover_18424.jpg",
-url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/10Marvel-Timeline",
+url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/10Marvel-Timeline",
 "import": false
 },
 {
 name:"Harry Potter แฮร์รี่ พอตเตอร์",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB9_Y8RCi5t_Rwwr5DZ-DuSdzKGMcjK5zjGQ&usqp=CAU",
-url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/11HarryPotter",
+url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/11HarryPotter",
 "import": false
 },
 {
 name:"Fantastic Beasts สัตว์มหัศจรรย์",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2PXd-Rua7onF6PVYizCgvcvxf6KlHZ9hi2Q&usqp=CAU",
-url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/12Fantastic-Beasts",
+url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/12Fantastic-Beasts",
 "import": false
 },
 {
 name:"ซีรี่ส์ยุโรป",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCLa-ouBT9hgWoySdr2po2eCNckEwcsF606Q&usqp=CAU",
-url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/02SeriesEurope",
+url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/02SeriesEurope",
 "import": false
 },
 {
 name:"ซีรี่ส์เกาหลี",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3_RlfNcJ_oxUZWgd93jR8G-qaplrCFOKNWg&usqp=CAU",
-url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/02SeriesKorea",
+url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/02SeriesKorea",
 "import": false
 },
 {
