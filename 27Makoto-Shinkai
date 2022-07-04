@@ -1,0 +1,65 @@
+{
+"name":"Makoto Shinkai",
+"author":"PhaTonG",
+"image":"https://www.dropbox.com/s/qrnl4jmgorvmjup/IMG_20220629_094604.jpg?dl=1",
+"url":"Kuy",
+
+
+"stations":[
+
+{"name":"YOUR NAME (Kimi no Na wa) หลับตาฝันถึงชื่อเธอ",
+"info":"เสียง : พากย์ไทย",
+"image":"https://upload.wikimedia.org/wikipedia/th/5/5d/Your_Name_poster.jpg",
+"url":"https://ok6-9.vkuser.net/?expires=1656919389892&srcIp=1.47.155.102&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.136&type=5&sig=CKHHxRxmto0&ct=0&urls=45.136.21.74%3B185.226.53.20&clientType=0&zs=43&id=438753954450",
+"playInNatPlayer": "true","referer": "https://www.animetobi.com/"},
+
+{"name":"YOUR NAME (Kimi no Na wa) หลับตาฝันถึงชื่อเธอ",
+"info":"เสียง : ซับไทย",
+"image":"https://upload.wikimedia.org/wikipedia/th/5/5d/Your_Name_poster.jpg",
+"url":"https://ok6-1.vkuser.net/?expires=1656921880171&srcIp=1.47.155.102&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.128&type=5&sig=B2PKDzDKqOM&ct=0&urls=45.136.20.56%3B45.136.21.54&clientType=0&zs=43&id=438509767314",
+"playInNatPlayer": "true","referer": "https://www.animetobi.com/"},
+
+{"name":"WEATHERING WITH YOU (Tenki no Ko) ฤดูฝัน ฉันมีเธอ",
+"info":"เสียง : พากย์ไทย",
+"image":"https://www.dropbox.com/s/v50553ut0xfsqo2/_.jpeg?dl=1",
+"url":"https://flyer.akamaicdn.cloud/auth/2929768428/playlist.m3u8?anthony=97c8a1240de733073d4c08ec44f3678f&e=178507&a=1.47.155.102",
+"playInNatPlayer": "true","referer": "https://www.animetobi.com/"},
+
+{"name":"WEATHERING WITH YOU (Tenki no Ko) ฤดูฝัน ฉันมีเธอ",
+"info":"เสียง : ซับไทย",
+"image":"https://m.media-amazon.com/images/I/71rgiqKm5ZL._AC_SL1410_.jpg",
+"url":"https://antiddosleoplayer.com/izpmw09k4rsxm9xyjl0cf6v5n0146qa3bsl/default/index.m3u8",
+"playInNatPlayer": "true","referer": "https://www.animetobi.com/"},
+
+{"name":" 5 CENTIMETERS PER SECOND ยามซากุระร่วงโรย",
+"info":"เสียง : พากย์ไทย",
+"image":"https://www.037hdmovie.com/wp-content/uploads/2018/07/5-Centimeters-Per-Second-2007.jpg",
+"url":"https://antiddosleoplayer.com/ry1mt4prcs78njeuecrzbdttg5bro75dce2/default/index.m3u8",
+"playInNatPlayer": "true","referer": "https://www.animetobi.com/"},
+
+{"name":" 5 CENTIMETERS PER SECOND ยามซากุระร่วงโรย",
+"info":"เสียง : ซับไทย",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkM-dSeY3fLdd4TvxM0T5wO2oHMk8f3TA4pg&usqp=CAU",
+"url":"https://antiddosleoplayer.com/n04e26xzg5l07r452lk81tono7dorg5hfjj/default/index.m3u8",
+"playInNatPlayer": "true","referer": "https://www.animetobi.com/"},
+
+{"name":"The Garden of Words ยามสายฝนโปรยปราย",
+"info":"เสียง : พากย์ไทย",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRCtRKlHcnDdlufjDpirkWKS_NRTopptnqYg&usqp=CAU",
+"url":"https://antiddosleoplayer.com/8hcl5g4joc9ocpmjxlxotauhj50nx08jt1e/default/index.m3u8",
+"playInNatPlayer": "true","referer": "https://www.animetobi.com/"},
+
+{"name":"Voices of a Distant Star เสียงเพรียกจากดวงดาว",
+"info":"เสียง : พากย์ไทย",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf-_xkIFg6nghNb5RSMUISWvvbHCsOzuEJ-g&usqp=CAU",
+"url":"https://mygetplay.xyz/k0y3wzi340g52qlrbpnuyych2tcb0aiwlzk/720/index.m3u8",
+"playInNatPlayer": "true","referer": "https://www.animetobi.com/"},
+
+{"name":"Children Who Chase Lost Voices เด็กสาวกับเสียงเพรียกแห่งพิภพเทพา ",
+"info":"เสียง : พากย์ไทย",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsyQZYVaoVlttc2X-SxRFQrDjFShTqm_yT6A&usqp=CAU",
+"url":"https://slave04.players2u.com/hls2/8da7cf58764b559524290aff021a0b63/8da7cf58764b559524290aff021a0b63.m3u8",
+"playInNatPlayer": "true","referer": "https://www.animetobi.com/"},
+
+]
+},
