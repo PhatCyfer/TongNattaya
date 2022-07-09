@@ -1,0 +1,27 @@
+{"name":"หนัง ฝรั่ง",
+"author":"PhaTonG",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLHO6DlXbLG5bt3qD6qsAKZC1XJCx6dpLsg&usqp=CAU",
+"url":"Kuy",
+
+"groups":[
+
+{
+name:"จักรวาล Marvel เรียงตาม Timeline",
+image:"https://cdn.majorcineplex.com/uploads/content/18424/cover_18424.jpg",
+url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/10Marvel-Timeline",
+"import": false
+},
+{
+name:"Harry Potter แฮร์รี่ พอตเตอร์",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB9_Y8RCi5t_Rwwr5DZ-DuSdzKGMcjK5zjGQ&usqp=CAU",
+url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/11HarryPotter",
+"import": false
+},
+{
+name:"Fantastic Beasts สัตว์มหัศจรรย์",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2PXd-Rua7onF6PVYizCgvcvxf6KlHZ9hi2Q&usqp=CAU",
+url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/12Fantastic-Beasts",
+"import": false
+},
+]
+}
