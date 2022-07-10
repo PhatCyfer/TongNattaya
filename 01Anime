@@ -7,122 +7,152 @@ groups:[
 
 {
 name:"วันพีซ",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcl9Zo0TJaEvRnimBPL9QBpJ_1Heb2jHccYQ&usqp=CAU",
+image:"https://c.tenor.com/Xg0Ba5TxmDwAAAAd/one-piece-one-piece-logo.gif",
 url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/05Onepiece",
 "import": false
 },
 {
 name:"โคนัน",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz2I8090DN-CzWfCX5DbFWtcH0fYPsuj62ug&usqp=CAU",
+image:"https://c.tenor.com/cJ3q4osVwEgAAAAC/detective-detective-conan.gif",
 url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/06conan",
 "import": false
 },
 {
 name:"Kimetsu No Yaiba ดาบพิฆาตอสูร",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXJTGZeLu37aVDwU4Sqw8R4clq5DumFaIlAg&usqp=CAU",
+image:"https://64.media.tumblr.com/702f34e5e47df4d68d40622400921cfa/9a8fb4076faf5210-96/s540x810/41edaca3864ddf527e284fc2c85eacd62f375f0a.gifv",
 url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/16Kimetsu-no-Yaiba",
 "import": false
 },
 {
 name:"นารูโตะ Shippuden",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS--vTSN-hiNUTuzHTma9RwyNoNNDQ2sZqsIg&usqp=CAU",
+image:"https://c.tenor.com/BSOIPIhRS6oAAAAC/naruto-narutoshippuden.gif",
 url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/07naruto",
 "import": false
 },
 {
 name:"โบรูโตะ",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTotakje0FswvFmtr-EXxD7Hos_yKoq862Yg&usqp=CAU",
+image:"https://thumbs.gfycat.com/QuerulousFrayedGrayfox-size_restricted.gif",
 url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/08Boruto",
 "import": false
 },
 {
 name:"วันพันช์แมน ไอหนุ่มหมัดเดียว",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOyZCEizFpfF8RDNW0dVfMolHCYcavL7vVSg&usqp=CAU",
+image:"https://i.pinimg.com/originals/99/7f/85/997f851b72323f141172c4cda712f6da.gif",
 url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/09one-punch-man",
 "import": false
 },
 {
 name:"โจโจ้ ล่าข้ามศตวรรษ",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl7ebg8NCwCi1TV-7ILQ7YFMNYU0A7E1fKOA&usqp=CAU",
+image:"https://media3.giphy.com/media/f9jxYYRVPHtKsCf9sy/200.gif",
 url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/22jojo",
 "import": false
 },
 {
 name:"เกิดใหม่ทั้งทีก็เป็นสไลม์ไปซะแล้ว",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROkEXt3Antb0RE4QUYqb4nxn_pgcur_dOHGg&usqp=CAU",
+image:"https://i.pinimg.com/originals/71/ce/90/71ce900aa90ae28df5fe760981be7a4c.gif",
 url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/25Slime-Datta-ken",
 "import": false
 },
 {
 name:"Fairy Tail แฟรี่เทล",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw4liHIWrEyv54K0NumyBGJZJYgOL_Tludlw&usqp=CAU",
+image:"https://c.tenor.com/6U-ekGbRlmEAAAAC/fairytail-logo.gif",
 url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/13FairyTail",
 "import": false
 },
 {
 name:"Douluo Dalu Soul Land จอมยุทธ์ภูติถังซาน",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx89lPFXE21yBYH4otJQpJivyl3xtP0zW9MA&usqp=CAU",
+image:"https://c.tenor.com/C2Zx6KneJoEAAAAd/soul-land-soul.gif",
 url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/14Douluo-Dalu-Soul-Land",
 "import": false
 },
 {
 name:"Sword Art Online ซอร์ดอาร์ตออนไลน์",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxLM1KG9QdD2h9h7X8KVVXwR62wIrkmFz9GA&usqp=CAU",
+image:"https://i.pinimg.com/originals/f8/d1/55/f8d15595cbd5bc1c3e03b083cf330c35.gif",
 url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/15SAO",
 "import": false
 },
 {
 name:"DanMachi มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnXnDo6iQ0mfvaOEBUlY8Vwt-_6UStnajG1Q&usqp=CAU",
+image:"https://animesher.com/orig/1/104/1049/10490/animesher.com_danmachi-danmachi-tv-anime-gif-1049080.gif",
 url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/19DanMachi",
 "import": false
 },
 {
 name:"Doraemon The Movie โดเรม่อน เดอะมูฟวี่",
-image:"https://i.pinimg.com/originals/03/e5/6a/03e56a440cb8616dc545a2e100c851a2.jpg",
+image:"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a4d9d592-916d-475f-b266-5948b121a962/d8souji-a9ff9362-e872-4b02-a9ef-5b3893b014c7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2E0ZDlkNTkyLTkxNmQtNDc1Zi1iMjY2LTU5NDhiMTIxYTk2MlwvZDhzb3VqaS1hOWZmOTM2Mi1lODcyLTRiMDItYTllZi01YjM4OTNiMDE0YzcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.PoXvPCP3pGC41j9jrbFijIC4Yt8kNF7_axjcLQ6ECDU",
 url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/18Doraemon",
 "import": false
 },
 {
 name:"Attack on Titan ผ่าพิภพไททัน",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCHPv2QbllCyIgO5iAZkWDFd3UeryzxerrFQ&usqp=CAU",
+image:"https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c2fb3a25-09ea-4f74-8ad0-35c9648a3839/d7jtae9-4296e261-b0cb-4d0c-b593-2ee39597376c.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2MyZmIzYTI1LTA5ZWEtNGY3NC04YWQwLTM1Yzk2NDhhMzgzOVwvZDdqdGFlOS00Mjk2ZTI2MS1iMGNiLTRkMGMtYjU5My0yZWUzOTU5NzM3NmMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.MrZnMI_ZS4VNl7haQWIJN3yB7UVYsOX85WbrHW8k9s0",
 url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/20AttackOnTitan",
 "import": false
 },
 {
 name:"บ้านนี้ต้องมีเหมียว Chi's Sweet Home - Atarashii Ouchi",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLhBji-O8J4dXO-IMv_Cf7gWm4stfLO_UUwQ&usqp=CAU",
+image:"https://i.gifer.com/U8l5.gif",
 url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/17chi-sweet-home",
 "import": false
 },
 {
 name:"มหาเวทย์ผนึกมาร Jujutsu Kaisen",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNMX8Mi9IMZy8PoRLXk60R-UyXxIHh7LkFtQ&usqp=CAU",
+image:"https://www.gifcen.com/wp-content/uploads/2021/08/jujutsu-kaisen-gif-15.gif",
 url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/21Jujutsu-Kaisen",
 "import": false
 },
 {
 name:"บูรณะมันวุ่นวาย ขายชาติเลยแล้วกัน Tensai Ouji no Akaji Kokka Saiseijutsu",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSak7OJZf0SPMWc9WP06z-LozlguJdUZKukzA&usqp=CAU",
+image:"https://blogger.googleusercontent.com/img/a/AVvXsEicZXUFlM94HntRnXNuOS55fCudp1gCD47YcKQoruB31LbLwnJBnSApLrqZ0AfXTEHZjhdSF2Z_BPtmHVmDCtubofIh2liL_2dffldTE7XtBAHoKLYHwH1u-K_OE-eIpi_4cYLgb5wCg_Cgs-DJWTvQJoSWpqvkCkyJS8E2GCeTYZp0H9NPnqA",
 url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/23Tensai-Ouji-no-Akaji-Kokka-Saiseijutsu",
 "import": false
 },
 {
 name:"Makoto Shinkai",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAei_1BbDx_XVqNErmnEujapCshte4tgK8lA&usqp=CAU",
+image:"https://i.pinimg.com/originals/cc/77/c7/cc77c73075e343563d4b1736a7fb8fe9.gif",
 url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/27Makoto-Shinkai",
 "import": false
 },
 {
 name:"Log Horizon รวมพลคนติดอยู่ในเกมส์",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq3mn1QoNoncKA-3ykNGQ6cgX6we5ScZe40w&usqp=CAU",
+image:"http://2.bp.blogspot.com/-9ZeCy_n97wc/VDXsYa6IRiI/AAAAAAAAA8s/bNrKMIPrX58/s1600/10%2BSecond%2BAnime%2B-%2BLog%2BHorizon%2B2%2B-%2BFall%2B2014.gif",
 url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/28Log-Horizon",
 "import": false
 },
 {
 name:"My Hero Academia มายฮีโร่ อคาเดเมีย",
-image:"https://www.metalbridges.com/wp-content/uploads/2016/05/My-Hero-Academia-2.jpg",
+image:"https://steemitimages.com/p/FxX5caie56yphbyVjBvTmGy5MJFVTXkwxxAia8Vr7E1cnimzNyr9JKTMxBE7cZtgy7BwStd16tuvAbbj4Qxjd6LbYTsdoHJK743WN9G5xHLZ?format=match&mode=fit",
 url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/29My-Hero",
+"import": false
+},
+{
+name:"เกิดชาตินี้พี่ต้องเทพ Mushoku Tensei",
+image:"https://c.tenor.com/0eETYkLWJAYAAAAd/mushoku-tensei-jobless-reincarnation.gif",
+url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/32Mushoku-Tensei",
+"import": false
+},
+{
+name:"Fullmetal Alchemist : Brotherhood แขนกลคนแปรธาตุ",
+image:"https://thumbs.gfycat.com/BouncyFirsthandFlycatcher-size_restricted.gif",
+url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/33Fullmetal-Alchemist",
+"import": false
+},
+{
+name:"มหาศึกคนชนเทพ Record of Ragnarok",
+image:"https://i.pinimg.com/originals/8a/f4/d8/8af4d82ab5d445e467539445a804d8b5.gif",
+url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/37Record-of-Ragnarok",
+"import": false
+},
+{
+name:"ไปต่างโลกกับสมาร์ทโฟน Isekai wa Smartphone to Tomo ni",
+image:"https://pa1.narvii.com/6783/7dc2ce9a15b4aa5adc9ce24694d55e3e924ca629_hq.gif",
+url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/38Isekai-wa-Smartphone",
+"import": false
+},
+{
+name:"ล่าสไลม์มา 300 ปีรู้ตัวอีกทีก็เลเวล MAX ซะแล้ว Slime Taoshite 300-nen",
+image:"https://64.media.tumblr.com/f2e278a7da7032fa2461069db2b9e786/b3e5e4c3f54be28c-ce/s540x810/f72849d922deea32e9fbda8fc83adc19b214d921.gifv",
+url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/39SLIME-TAOSHITE-300-NEN",
 "import": false
 },
 ]
