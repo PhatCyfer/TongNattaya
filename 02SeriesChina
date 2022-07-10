@@ -1,0 +1,23 @@
+{"name":"ซีรี่ส์ จีน",
+"author":"PhaTonG",
+"image":"https://www.dropbox.com/s/qrnl4jmgorvmjup/IMG_20220629_094604.jpg?dl=1",
+"url":"Kuy",
+
+"groups":[
+
+{
+"name":"Heroes ดาบเสียดฟ้า (2022)",
+"info":"เสียง : ซับไทย",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTos5fWJd6Pa4miCVaz6fwqtu1xWERqK1lx8g&usqp=CAU",
+"url":"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/35Heroes",
+"import": false
+},
+{
+"name":"Deity Of Love ลิขิตรักนางพญางูเขียว (2022)",
+"info":"เสียง : ซับไทย",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtQqwl5-DyJuIpVfrUZENzQ8qOpPTpE3P5uw&usqp=CAU",
+"url":"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/36Deity-Of-Love",
+"import": false
+},
+]
+}
