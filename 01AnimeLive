@@ -1,0 +1,39 @@
+{
+name:"อนิเมะ ที่ยังฉายอยู่",
+author:"PhaTonG",
+"image": "https://www.dropbox.com/s/qrnl4jmgorvmjup/IMG_20220629_094604.jpg?dl=1",
+
+groups:[
+
+{
+name:"วันพีซ จะยืดไปไหน",
+image:"https://c.tenor.com/Xg0Ba5TxmDwAAAAd/one-piece-one-piece-logo.gif",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/05onepiece",
+"import": false
+},
+{
+name:"โคนัน อยู่ที่ไหนคนตายห่าที่นั้น",
+image:"https://c.tenor.com/cJ3q4osVwEgAAAAC/detective-detective-conan.gif",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/06conan",
+"import": false
+},
+{
+name:"Douluo Dalu Soul Land จอมยุทธ์ภูติถังซาน",
+image:"https://c.tenor.com/C2Zx6KneJoEAAAAd/soul-land-soul.gif",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/14Douluo-Dalu-Soul-Land",
+"import": false
+},
+{
+name:"โบรูโตะ เขียนมาโคตรกาก",
+image:"https://thumbs.gfycat.com/QuerulousFrayedGrayfox-size_restricted.gif",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/08boruto",
+"import": false
+},
+{
+name:"เกิดใหม่ไปเป็นปราชญ์แกร่ง Tensei Kenja no Isekai Life",
+image:"https://www.sankakucomplex.com/wp-content/uploads/2022/01/MyIsekaiLifeTrailer1-GIF1-2022.gif",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/46Tensei-Kenja-no-Isekai-Life",
+"import": false
+},
+]
+}
