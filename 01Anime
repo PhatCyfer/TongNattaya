@@ -6,15 +6,9 @@ author:"PhaTonG",
 groups:[
 
 {
-name:"วันพีซ",
-image:"https://c.tenor.com/Xg0Ba5TxmDwAAAAd/one-piece-one-piece-logo.gif",
-url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/05Onepiece",
-"import": false
-},
-{
-name:"โคนัน",
-image:"https://c.tenor.com/cJ3q4osVwEgAAAAC/detective-detective-conan.gif",
-url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/06conan",
+name:"อนิเมะ กำลังฉาย",
+image:"https://i.pinimg.com/originals/a5/16/ed/a516ed757917641895643576f9d25504.gif",
+url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/01AnimeLive",
 "import": false
 },
 {
@@ -153,6 +147,24 @@ url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/38Isekai-wa-Sm
 name:"ล่าสไลม์มา 300 ปีรู้ตัวอีกทีก็เลเวล MAX ซะแล้ว Slime Taoshite 300-nen",
 image:"https://64.media.tumblr.com/f2e278a7da7032fa2461069db2b9e786/b3e5e4c3f54be28c-ce/s540x810/f72849d922deea32e9fbda8fc83adc19b214d921.gifv",
 url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/39SLIME-TAOSHITE-300-NEN",
+"import": false
+},
+{
+name:"ผู้กล้าโล่ผงาด Tate no Yuusha no Nariagari",
+image:"https://trustthegaijinhome.files.wordpress.com/2019/07/naofumi-and-the-curse-shield.gif",
+url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/42Tate-no-Yuusha-no-Nariagari",
+"import": false
+},
+{
+name:"BOFURI น้องโล่สายแทงก์ แกร่งเกินร้อย",
+image:"https://c.tenor.com/5NH_ZXOm2IgAAAAC/itai-no-wa-iya-nano-de-bougyoryoku-ni-kyokufuri-shitai-to-omoimasu-bofuri.gif",
+url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/45BOFURI",
+"import": false
+},
+{
+name:"ผมน่ะเลิกเป็นผู้กล้าแล้วครับ Yuusha Yamemasu",
+image:"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhlzZzR48ZZIa346sotqW5i4koXphh7_mdtgiDTX2L2hvuDodtt72jJ2jpLMeBRjZgWeao0CdSbasKoT3eh1ZIqMoSAq4-1V87NVarvV3abAta33NNgIjzY2u_LxIZwW6ddAd_79HJFRbJSrIQWRtsNHs8bMcO2IigEeZ2UiUXOFuP9uc_6X8s/s1600/Yuusha%20Yamemasu%20-%20Spring%202022.gif",
+url:"https://raw.githubusercontent.com/PhatCyfer/TongNattaya/main/47Yuusha-Yamemasu",
 "import": false
 },
 ]
